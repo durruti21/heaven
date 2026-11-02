@@ -1,0 +1,26 @@
+# Build output
+build/
+
+# CMake artifacts from in-source builds of vendored libraries
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+compile_commands.json
+
+# Compiled object and static library files
+# (vendored shared libraries under lib/SDL3*/lib64 are kept)
+*.o
+*.a
+
+# Vendored library test suites and examples not needed to build the project
+lib/nlohmann_json/tests/
+lib/sqlite/test/
+lib/imgui/examples/
+lib/spdlog/example/
+lib/spdlog/tests/
+lib/spdlog/bench/
+
+# Logs
+*.log

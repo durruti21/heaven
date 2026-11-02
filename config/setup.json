@@ -1,0 +1,9 @@
+{
+    "start_date" : {
+        "date" : "2050-01-01",
+        "time" : "00:00:00"
+    },
+    "increments" : {
+        "tick" : 1
+    }
+}

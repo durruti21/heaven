@@ -1,0 +1,10 @@
+{
+    "log_level"      : "debug",
+
+    "save_directory"      : "./save/",
+    "data_directory"      : "./data/",
+    "sbody_img_directory" : "./data/reference/images/sbodies",
+
+    "stellar_info_file" : "./data/reference/stellar_info.db",
+    "fonts_file"        : "./data/fonts/typicons.ttf"
+}
