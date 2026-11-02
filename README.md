@@ -393,6 +393,6 @@ writes its log to `./log.txt`, and loads data from `./data/`.
 
 This README is derived from the project notes in `doc/`:
 
-- [`doc/design.txt`](doc/design.txt) — overall design and component descriptions.
-- [`doc/keys.txt`](doc/keys.txt) — application controls.
-- [`doc/roadmap.txt`](doc/roadmap.txt) — development roadmap.
+- [`doc/design.md`](doc/design.md) — overall design and component descriptions.
+- [`doc/keys.md`](doc/keys.md) — application controls.
+- [`doc/roadmap.md`](doc/roadmap.md) — development roadmap.
